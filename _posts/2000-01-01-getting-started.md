@@ -1,8 +1,8 @@
 ---
 title: Getting Started
+date: 2000-01-01 00:00:00 Z
 section: Overview
 index: 1
-published: true
 ---
 
 ![logo_wethod-03-1.png]({{site.baseurl}}/_posts/logo_wethod-03-1.png)
